@@ -6,8 +6,8 @@ Neste projeto de estudo, utilizamos dados do Spotify para extrair as músicas e 
 
 ## Estrutura do Projeto
 
-- **data/**: Contém arquivos de dados brutos e processados.
-- **notebooks/**: Jupyter Notebooks com análises e visualizações.
+- **data-spotify**: Arquivo com dados brutos e processados.
+- **notebook-spotify**: Jupyter Notebooks com análises e visualizações.
 - **README.md**: Este arquivo, que fornece informações sobre o projeto.
 
 ## 🔍 Exemplos de Análises Realizadas
