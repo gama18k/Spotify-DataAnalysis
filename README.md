@@ -1,8 +1,6 @@
-# Análise de Dados do Spotify
+# Most Streamed Spotify Songs 2023 Data Analysis
 
-## 📊 Visão Geral
-
-Neste projeto de estudo, utilizamos dados do Spotify para extrair as músicas e artistas mais populares de 2023. As análises são realizadas usando Python e bibliotecas como pandas, Matplotlib e Seaborn.
+Este projeto realiza uma análise detalhada dos dados do Spotify, com foco nas músicas mais populares de 2023. A análise abrange as músicas mais ouvidas, os artistas com maior presença e a distribuição das faixas por ano de lançamento.
 
 ## Estrutura do Projeto
 
@@ -10,8 +8,8 @@ Neste projeto de estudo, utilizamos dados do Spotify para extrair as músicas e 
 - **notebook-spotify**: Jupyter Notebooks com análises e visualizações.
 - **README.md**: Este arquivo, que fornece informações sobre o projeto.
 
-## 🔍 Exemplos de Análises Realizadas
-
-- Top 10 músicas mais ouvidas
-- Top 10 artistas com mais músicas entre as músicas mais ouvidas
-- Ano de lançamento das músicas mais ouvidas
+## Tecnologias Utilizadas
+- **Python**: Linguagem de programação utilizada para análise de dados.
+- **Pandas**: Biblioteca para manipulação e análise de dados.
+- **Matplotlib & Seaborn**: Biblioteca para visualizações gráficas.
+- **Jupyter Notebook**: Ambiente para execução e documentação do código.
