@@ -4,9 +4,9 @@ Este projeto realiza uma análise detalhada dos dados do Spotify, com foco nas m
 
 ## Estrutura do Projeto
 
-- **data-spotify**: Arquivo com dados brutos e processados.
-- **notebook-spotify**: Jupyter Notebooks com análises e visualizações.
-- **README.md**: Este arquivo, que fornece informações sobre o projeto.
+- **`data-spotify`**: Arquivo com dados brutos e processados.
+- **`notebook-spotify`**: Jupyter Notebooks com análises e visualizações.
+- **`README.md`**: Este arquivo, que fornece informações sobre o projeto.
 
 ## Tecnologias Utilizadas
 - **Python**: Linguagem de programação utilizada para análise de dados.
